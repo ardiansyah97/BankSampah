@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\d519fe332e50f542407942211b13c0be4bca480f\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\d519fe332e50f542407942211b13c0be4bca480f\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_add_list.png",
+        "source": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_add_list.png"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_add_user.png",
+        "source": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_add_user.png"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_pembayaran.png",
+        "source": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_pembayaran.png"
+    },
+    {
+        "merged": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_user.png",
+        "source": "F:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_user.png"
+    }
+]

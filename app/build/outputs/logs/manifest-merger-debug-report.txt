@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\d519fe332e50f542407942211b13c0be4bca480f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\21edd04b79e6fccb0fed463a47abf03679429c1a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\83418a10e69dbe91c8c5205f762f43fc23a70963\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\e6ee59b24938cc1e4de261108fc65529c5872eae\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\80ca35dfc60151073afb18bb2e70f745ae2a0097\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\54b17996bca3f16a175a6cc3933e9e45edae5ef5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\fc36a42615ed96135311ef498847f9b4d76a31d1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\a76b5bd08f588aa1eb90ac1e17436ac039b8b4d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\49bea54a6452f5e9ed4547d5035689baf2cb611b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\5ee2d065b68cc1065a120b026a60a8f322abac24\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\c0cf0017340ba33db7691b94875513116d43a6ff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\044dd264c1db72b09c5a2a06234041ee6855b834\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ardiansyah\.android\build-cache\d4986fc2dbd843801dde28427d448ab7280ce212\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:13:9-39
+activity#ardiansyah.skripsi.com.banksampahrw09.LoginActivity
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:name
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:15:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:19:27-74
+activity#ardiansyah.skripsi.com.banksampahrw09.activity_admin.MainActivity
+ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:22:9-23:105
+	android:name
+		ADDED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml:23:13-93
+uses-sdk
+INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\d519fe332e50f542407942211b13c0be4bca480f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\21edd04b79e6fccb0fed463a47abf03679429c1a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\83418a10e69dbe91c8c5205f762f43fc23a70963\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\e6ee59b24938cc1e4de261108fc65529c5872eae\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\80ca35dfc60151073afb18bb2e70f745ae2a0097\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\153bd5497a1f2ce4167ae80a462b07cb0c118f8a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\54b17996bca3f16a175a6cc3933e9e45edae5ef5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\fc36a42615ed96135311ef498847f9b4d76a31d1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\a76b5bd08f588aa1eb90ac1e17436ac039b8b4d5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\49bea54a6452f5e9ed4547d5035689baf2cb611b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\5ee2d065b68cc1065a120b026a60a8f322abac24\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\c0cf0017340ba33db7691b94875513116d43a6ff\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\044dd264c1db72b09c5a2a06234041ee6855b834\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ardiansyah\.android\build-cache\d4986fc2dbd843801dde28427d448ab7280ce212\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\d519fe332e50f542407942211b13c0be4bca480f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\Skripsi\BankSampahRW09\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\d519fe332e50f542407942211b13c0be4bca480f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\21edd04b79e6fccb0fed463a47abf03679429c1a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\83418a10e69dbe91c8c5205f762f43fc23a70963\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\e6ee59b24938cc1e4de261108fc65529c5872eae\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\80ca35dfc60151073afb18bb2e70f745ae2a0097\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\153bd5497a1f2ce4167ae80a462b07cb0c118f8a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\54b17996bca3f16a175a6cc3933e9e45edae5ef5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\fc36a42615ed96135311ef498847f9b4d76a31d1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\a76b5bd08f588aa1eb90ac1e17436ac039b8b4d5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\49bea54a6452f5e9ed4547d5035689baf2cb611b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\5ee2d065b68cc1065a120b026a60a8f322abac24\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\c0cf0017340ba33db7691b94875513116d43a6ff\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\044dd264c1db72b09c5a2a06234041ee6855b834\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\d519fe332e50f542407942211b13c0be4bca480f\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ardiansyah\.android\build-cache\d519fe332e50f542407942211b13c0be4bca480f\output\AndroidManifest.xml:26:9-47

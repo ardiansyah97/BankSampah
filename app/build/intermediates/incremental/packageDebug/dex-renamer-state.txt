@@ -1,0 +1,7 @@
+#Tue Sep 19 12:46:40 ICT 2017
+base.0=F\:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f5900f8f11282073377c059695cf14fb8d8fab7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9dae2aefe7d8d637ff82b499f569ddbdc831c313\\classes.dex
+base.1=F\:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9dae2aefe7d8d637ff82b499f569ddbdc831c313
+file.0=F\:\\Kuliah\\Skripsi\\BankSampahRW09\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f5900f8f11282073377c059695cf14fb8d8fab7\\classes.dex
